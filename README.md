@@ -6,5 +6,4 @@ create table dados(
     id int(2) PRIMARY KEY AUTO_INCREMENT,<br>
     name varchar(255) not null,<br>
     email varchar(255) not null,<br>
-    message varchar(255) not null<br>
-);
+    message varchar(255) not null);
